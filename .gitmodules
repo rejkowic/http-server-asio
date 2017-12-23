@@ -7,3 +7,6 @@
 [submodule "test/http-server"]
 	path = test/http-server
 	url = git@github.com:rejkowic/http-server.git
+[submodule "test/cpp-netlib"]
+	path = test/cpp-netlib
+	url = git@github.com:rejkowic/cpp-netlib.git
